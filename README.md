@@ -5,9 +5,9 @@ Je recherche une alternance (rythme 3 jours en entreprise / 2 jours à l'école)
 
 | Profil visé | CV (PDF) |
 |---|---|
-| Support informatique / Helpdesk | [CV Support IT](CV_Berdina_Yokani-Sita.pdf) |
-| Systèmes et réseaux | [CV Systèmes et Réseaux](CV_Berdina_Yokani-Sita.pdf) |
-| Développement web | [CV Développement Web](CV_Berdina_Yokani-Sita.pdf) |
+| Support informatique / Helpdesk | [CV Support IT](CV_Berdina__Yokani-Sita.pdf) |
+| Systèmes et réseaux | [CV Systèmes et Réseaux](CV_Berdina__Yokani-Sita.pdf) |
+| Développement web | [CV Développement Web](CV_Berdina__Yokani-Sita.pdf) |
 
 Pour télécharger un CV : ouvrez-le, puis cliquez sur l'icône de téléchargement en haut à droite.
 
