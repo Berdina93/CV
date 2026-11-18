@@ -1,17 +1,21 @@
 # CV de YOKANI-SITA Berdina
 
-Étudiante en 1re année de Bachelor Informatique en alternance à l'ESGI Paris.
-Je recherche une alternance (rythme 3 jours en entreprise / 2 jours à l'école). **Disponible immédiatement.**
+Étudiante en 1re année de Bachelor Informatique en alternance à l'ESGI Paris. Je recherche une alternance (rythme 3 jours en entreprise / 2 jours à l'école). **Disponible immédiatement.**
 
-| Profil visé | CV (PDF) |
-|---|---|
-| Support informatique / Helpdesk | [CV Support IT](CV_Berdina__Yokani-Sita.pdf) |
-| Systèmes et réseaux | [CV Systèmes et Réseaux](CV_Berdina__Yokani-Sita.pdf) |
-| Développement web | [CV Développement Web](CV_Berdina__Yokani-Sita.pdf) |
+## CV
 
-Pour télécharger un CV : ouvrez-le, puis cliquez sur l'icône de téléchargement en haut à droite.
+[Télécharger mon CV (PDF)](https://github.com/Berdina93/CV/raw/main/CV_Berdina__Yokani-Sita_.pdf)
 
-**Projets** : 
+Pour le télécharger : cliquez sur le lien ci-dessus, ou ouvrez le fichier puis cliquez sur l'icône de téléchargement en haut à droite.
 
-**Portfolio** : [canva.link/80wieejgly85ugv](https://canva.link/80wieejgly85ugv)
-**Contact** : [chalisseyokani@gmail.com](mailto:chalisseyokani@gmail.com)
+## Projets
+
+- [GLPI NovaCorp Bank](https://github.com/Berdina93/novacorp-glpi) : déploiement d'un GLPI virtualisé pour une banque fictive multisite
+
+## Portfolio
+
+[Voir mon portfolio sur Canva](https://www.canva.com/design/DAHbQc55Kq4/_EuHg-O9BjTyFoLjTdIiBw/view)
+
+## Contact
+
+chalisseyokani@gmail.com
